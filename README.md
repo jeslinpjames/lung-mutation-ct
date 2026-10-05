@@ -1,4 +1,4 @@
-# LungCancerGrading
+# lung-mutation-ct
 
 > **Multimodal ML for lung cancer analysis on an 8 GB GPU.**  
 > Two research tracks: LUAD growth-pattern grading via Attention-MIL on whole-slide images, and EGFR mutation "virtual biopsy" from routine CT + clinical data.
